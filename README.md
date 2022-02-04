@@ -21,7 +21,7 @@ At fashsta, we have admins that need to view a list of users, delete a user from
 
 ```txt
 
-method POST
+method DELETE
 endpoint /users/:id
 
 ```
